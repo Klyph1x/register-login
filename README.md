@@ -4,7 +4,7 @@ Bu proje, PHP ve dosya tabanlı sistem kullanarak basit bir kullanıcı kayıt v
 
 ---
 
-## 🚀 Özellikler
+## Özellikler
 
 - Kullanıcı kayıt ve giriş
 - Şifreleri `password_hash` ile güvenli şekilde saklama
@@ -14,6 +14,4 @@ Bu proje, PHP ve dosya tabanlı sistem kullanarak basit bir kullanıcı kayıt v
 - Basit ve temiz CSS tasarımı (`style.css`)
 
 ---
-
-## 📁 Proje Yapısı
 
